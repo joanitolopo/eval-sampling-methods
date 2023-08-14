@@ -1,0 +1,326 @@
+
+
+Current Ram Used: 80.1 %Trial 0 finished with parameters: {'tree_method': 'hist', 'lambda': 3.913096853710516, 'alpha': 1.5246517350550126, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.9600242803360426, 'reg_lambda': 0.8838466331753113, 'scale_pos_weight': 6.07976795571444, 'colsample_bytree': 1.0, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 80.1 %
+Trial 0 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 3.913096853710516, 'alpha': 1.5246517350550126, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.9600242803360426, 'reg_lambda': 0.8838466331753113, 'scale_pos_weight': 6.07976795571444, 'colsample_bytree': 1.0, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 80.7 %Trial 1 finished with parameters: {'tree_method': 'hist', 'lambda': 7.9456385348043606, 'alpha': 8.695382647115316, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.4775518246810053, 'reg_lambda': 0.4690039392257527, 'scale_pos_weight': 2.7164705180905226, 'colsample_bytree': 0.9, 'subsample': 0.6, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 80.7 %
+Trial 1 done with best value: 0.8242440365345395 and parameters: {'tree_method': 'hist', 'lambda': 7.9456385348043606, 'alpha': 8.695382647115316, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.4775518246810053, 'reg_lambda': 0.4690039392257527, 'scale_pos_weight': 2.7164705180905226, 'colsample_bytree': 0.9, 'subsample': 0.6, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 80.8 %Trial 2 finished with parameters: {'tree_method': 'hist', 'lambda': 1.8909776620550598, 'alpha': 5.436638632937269, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.9796436644163626, 'reg_lambda': 0.10257728225705687, 'scale_pos_weight': 3.750255543789954, 'colsample_bytree': 0.7, 'subsample': 1.0, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 80.8 %
+Trial 1 done with best value: 0.8242440365345395 and parameters: {'tree_method': 'hist', 'lambda': 7.9456385348043606, 'alpha': 8.695382647115316, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.4775518246810053, 'reg_lambda': 0.4690039392257527, 'scale_pos_weight': 2.7164705180905226, 'colsample_bytree': 0.9, 'subsample': 0.6, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 80.8 %Trial 3 finished with parameters: {'tree_method': 'hist', 'lambda': 4.219055044057237, 'alpha': 4.189647738288295, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 9, 'reg_alpha': 0.31995290173383806, 'reg_lambda': 0.0890152883329337, 'scale_pos_weight': 5.157364079714481, 'colsample_bytree': 1.0, 'subsample': 0.9, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 80.8 %
+Trial 1 done with best value: 0.8242440365345395 and parameters: {'tree_method': 'hist', 'lambda': 7.9456385348043606, 'alpha': 8.695382647115316, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.4775518246810053, 'reg_lambda': 0.4690039392257527, 'scale_pos_weight': 2.7164705180905226, 'colsample_bytree': 0.9, 'subsample': 0.6, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 81.0 %Trial 4 finished with parameters: {'tree_method': 'hist', 'lambda': 5.284550558557368, 'alpha': 3.0363965981135745, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 9, 'reg_alpha': 0.8289332129384086, 'reg_lambda': 0.38446047968354635, 'scale_pos_weight': 9.513294789610303, 'colsample_bytree': 0.8, 'subsample': 0.9, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 81.2 %
+Trial 1 done with best value: 0.8242440365345395 and parameters: {'tree_method': 'hist', 'lambda': 7.9456385348043606, 'alpha': 8.695382647115316, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.4775518246810053, 'reg_lambda': 0.4690039392257527, 'scale_pos_weight': 2.7164705180905226, 'colsample_bytree': 0.9, 'subsample': 0.6, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 5 pruned
+
+Current Ram Used: 81.1 %
+Trial 1 done with best value: 0.8242440365345395 and parameters: {'tree_method': 'hist', 'lambda': 7.9456385348043606, 'alpha': 8.695382647115316, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.4775518246810053, 'reg_lambda': 0.4690039392257527, 'scale_pos_weight': 2.7164705180905226, 'colsample_bytree': 0.9, 'subsample': 0.6, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 80.7 %Trial 6 finished with parameters: {'tree_method': 'hist', 'lambda': 8.824204753504203, 'alpha': 5.765480608396507, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 9, 'reg_alpha': 0.8013022390302905, 'reg_lambda': 0.27428689518197014, 'scale_pos_weight': 3.236477014692454, 'colsample_bytree': 0.7, 'subsample': 0.9, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 80.7 %
+Trial 1 done with best value: 0.8242440365345395 and parameters: {'tree_method': 'hist', 'lambda': 7.9456385348043606, 'alpha': 8.695382647115316, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.4775518246810053, 'reg_lambda': 0.4690039392257527, 'scale_pos_weight': 2.7164705180905226, 'colsample_bytree': 0.9, 'subsample': 0.6, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 7 pruned
+
+Current Ram Used: 80.3 %
+Trial 1 done with best value: 0.8242440365345395 and parameters: {'tree_method': 'hist', 'lambda': 7.9456385348043606, 'alpha': 8.695382647115316, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.4775518246810053, 'reg_lambda': 0.4690039392257527, 'scale_pos_weight': 2.7164705180905226, 'colsample_bytree': 0.9, 'subsample': 0.6, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 8 pruned
+
+Current Ram Used: 80.4 %
+Trial 1 done with best value: 0.8242440365345395 and parameters: {'tree_method': 'hist', 'lambda': 7.9456385348043606, 'alpha': 8.695382647115316, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.4775518246810053, 'reg_lambda': 0.4690039392257527, 'scale_pos_weight': 2.7164705180905226, 'colsample_bytree': 0.9, 'subsample': 0.6, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 80.3 %Trial 9 finished with parameters: {'tree_method': 'hist', 'lambda': 3.7313299010700183, 'alpha': 8.598039838770271, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.6252068602714418, 'reg_lambda': 0.5138614868541589, 'scale_pos_weight': 4.5873738989902595, 'colsample_bytree': 0.8, 'subsample': 0.9, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 80.3 %
+Trial 1 done with best value: 0.8242440365345395 and parameters: {'tree_method': 'hist', 'lambda': 7.9456385348043606, 'alpha': 8.695382647115316, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.4775518246810053, 'reg_lambda': 0.4690039392257527, 'scale_pos_weight': 2.7164705180905226, 'colsample_bytree': 0.9, 'subsample': 0.6, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.5 %Trial 0 finished with parameters: {'tree_method': 'hist', 'lambda': 4.683636104618606, 'alpha': 4.005880371252675, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.9697621127342142, 'reg_lambda': 0.5874125859922776, 'scale_pos_weight': 3.4539372154253885, 'colsample_bytree': 1.0, 'subsample': 0.9, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.5 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 4.683636104618606, 'alpha': 4.005880371252675, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.9697621127342142, 'reg_lambda': 0.5874125859922776, 'scale_pos_weight': 3.4539372154253885, 'colsample_bytree': 1.0, 'subsample': 0.9, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.4 %Trial 1 finished with parameters: {'tree_method': 'hist', 'lambda': 2.2005171262150243, 'alpha': 5.79230173905476, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 9, 'reg_alpha': 0.5754958307343264, 'reg_lambda': 0.5411564410834903, 'scale_pos_weight': 9.750655268800546, 'colsample_bytree': 0.8, 'subsample': 0.8, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.4 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 4.683636104618606, 'alpha': 4.005880371252675, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.9697621127342142, 'reg_lambda': 0.5874125859922776, 'scale_pos_weight': 3.4539372154253885, 'colsample_bytree': 1.0, 'subsample': 0.9, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.5 %Trial 2 finished with parameters: {'tree_method': 'hist', 'lambda': 3.1838901220026, 'alpha': 3.4961978004504077, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.031378836110229735, 'reg_lambda': 0.5432336457697097, 'scale_pos_weight': 8.58734962674973, 'colsample_bytree': 1.0, 'subsample': 0.8, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.5 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 4.683636104618606, 'alpha': 4.005880371252675, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.9697621127342142, 'reg_lambda': 0.5874125859922776, 'scale_pos_weight': 3.4539372154253885, 'colsample_bytree': 1.0, 'subsample': 0.9, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.5 %Trial 3 finished with parameters: {'tree_method': 'hist', 'lambda': 6.441529890995336, 'alpha': 1.2871488370826212, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.7071666479608758, 'reg_lambda': 0.7723718857974513, 'scale_pos_weight': 1.2444827724098597, 'colsample_bytree': 0.6, 'subsample': 0.8, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.5 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 4.683636104618606, 'alpha': 4.005880371252675, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.9697621127342142, 'reg_lambda': 0.5874125859922776, 'scale_pos_weight': 3.4539372154253885, 'colsample_bytree': 1.0, 'subsample': 0.9, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.5 %Trial 4 finished with parameters: {'tree_method': 'hist', 'lambda': 9.027542140961305, 'alpha': 3.8565974269867636, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.27771730016583884, 'reg_lambda': 0.728147274396042, 'scale_pos_weight': 1.6923294812993377, 'colsample_bytree': 1.0, 'subsample': 1.0, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.5 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 4.683636104618606, 'alpha': 4.005880371252675, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.9697621127342142, 'reg_lambda': 0.5874125859922776, 'scale_pos_weight': 3.4539372154253885, 'colsample_bytree': 1.0, 'subsample': 0.9, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 5 pruned
+
+Current Ram Used: 83.5 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 4.683636104618606, 'alpha': 4.005880371252675, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.9697621127342142, 'reg_lambda': 0.5874125859922776, 'scale_pos_weight': 3.4539372154253885, 'colsample_bytree': 1.0, 'subsample': 0.9, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 6 pruned
+
+Current Ram Used: 83.4 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 4.683636104618606, 'alpha': 4.005880371252675, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.9697621127342142, 'reg_lambda': 0.5874125859922776, 'scale_pos_weight': 3.4539372154253885, 'colsample_bytree': 1.0, 'subsample': 0.9, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 7 pruned
+
+Current Ram Used: 82.5 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 4.683636104618606, 'alpha': 4.005880371252675, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.9697621127342142, 'reg_lambda': 0.5874125859922776, 'scale_pos_weight': 3.4539372154253885, 'colsample_bytree': 1.0, 'subsample': 0.9, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.5 %Trial 8 finished with parameters: {'tree_method': 'hist', 'lambda': 2.8072820908164755, 'alpha': 0.41788050656132186, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 0.1761191170310732, 'reg_lambda': 0.53616889795176, 'scale_pos_weight': 1.969387736159237, 'colsample_bytree': 1.0, 'subsample': 0.7, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.5 %
+Trial 8 done with best value: 0.7883203946203993 and parameters: {'tree_method': 'hist', 'lambda': 2.8072820908164755, 'alpha': 0.41788050656132186, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 0.1761191170310732, 'reg_lambda': 0.53616889795176, 'scale_pos_weight': 1.969387736159237, 'colsample_bytree': 1.0, 'subsample': 0.7, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.7 %Trial 9 finished with parameters: {'tree_method': 'hist', 'lambda': 8.062425150671352, 'alpha': 2.412476710465448, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 9, 'reg_alpha': 0.23672956763894726, 'reg_lambda': 0.4231456528502129, 'scale_pos_weight': 3.9244455432582983, 'colsample_bytree': 0.6, 'subsample': 0.7, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.7 %
+Trial 8 done with best value: 0.7883203946203993 and parameters: {'tree_method': 'hist', 'lambda': 2.8072820908164755, 'alpha': 0.41788050656132186, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 0.1761191170310732, 'reg_lambda': 0.53616889795176, 'scale_pos_weight': 1.969387736159237, 'colsample_bytree': 1.0, 'subsample': 0.7, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.8 %Trial 0 finished with parameters: {'tree_method': 'hist', 'lambda': 3.79189386451587, 'alpha': 5.0089160497231004, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 8, 'reg_alpha': 0.13985921487184627, 'reg_lambda': 0.6264097486762854, 'scale_pos_weight': 4.13470176857456, 'colsample_bytree': 0.9, 'subsample': 1.0, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.8 %
+Trial 0 done with best value: 0.7188641886493803 and parameters: {'tree_method': 'hist', 'lambda': 3.79189386451587, 'alpha': 5.0089160497231004, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 8, 'reg_alpha': 0.13985921487184627, 'reg_lambda': 0.6264097486762854, 'scale_pos_weight': 4.13470176857456, 'colsample_bytree': 0.9, 'subsample': 1.0, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.6 %Trial 1 finished with parameters: {'tree_method': 'hist', 'lambda': 4.270346382886951, 'alpha': 1.6721328855495496, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.8176196247721235, 'reg_lambda': 0.5827021084135765, 'scale_pos_weight': 1.002765825650731, 'colsample_bytree': 0.7, 'subsample': 0.8, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.6 %
+Trial 0 done with best value: 0.7188641886493803 and parameters: {'tree_method': 'hist', 'lambda': 3.79189386451587, 'alpha': 5.0089160497231004, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 8, 'reg_alpha': 0.13985921487184627, 'reg_lambda': 0.6264097486762854, 'scale_pos_weight': 4.13470176857456, 'colsample_bytree': 0.9, 'subsample': 1.0, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.6 %Trial 2 finished with parameters: {'tree_method': 'hist', 'lambda': 7.448903343587938, 'alpha': 8.332501297024804, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.37860219495319336, 'reg_lambda': 0.11611306536586019, 'scale_pos_weight': 2.9991290472356757, 'colsample_bytree': 0.6, 'subsample': 1.0, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.8 %
+Trial 2 done with best value: 0.7516645516752521 and parameters: {'tree_method': 'hist', 'lambda': 7.448903343587938, 'alpha': 8.332501297024804, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.37860219495319336, 'reg_lambda': 0.11611306536586019, 'scale_pos_weight': 2.9991290472356757, 'colsample_bytree': 0.6, 'subsample': 1.0, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.7 %Trial 3 finished with parameters: {'tree_method': 'hist', 'lambda': 9.276525007953838, 'alpha': 3.1358595364282476, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6191079999873019, 'reg_lambda': 0.5742668676548246, 'scale_pos_weight': 2.5708132721379133, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.7 %
+Trial 3 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 9.276525007953838, 'alpha': 3.1358595364282476, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6191079999873019, 'reg_lambda': 0.5742668676548246, 'scale_pos_weight': 2.5708132721379133, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.7 %Trial 4 finished with parameters: {'tree_method': 'hist', 'lambda': 3.755227056120404, 'alpha': 7.524423494741604, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 8, 'reg_alpha': 0.14212872933010234, 'reg_lambda': 0.678136712032332, 'scale_pos_weight': 5.584603143948527, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.7 %
+Trial 3 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 9.276525007953838, 'alpha': 3.1358595364282476, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6191079999873019, 'reg_lambda': 0.5742668676548246, 'scale_pos_weight': 2.5708132721379133, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.7 %Trial 5 finished with parameters: {'tree_method': 'hist', 'lambda': 4.227640975395798, 'alpha': 2.9962294168611763, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 8, 'reg_alpha': 0.44596948694868277, 'reg_lambda': 0.2822030093913954, 'scale_pos_weight': 1.6170823691520044, 'colsample_bytree': 0.8, 'subsample': 0.9, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.7 %
+Trial 3 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 9.276525007953838, 'alpha': 3.1358595364282476, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6191079999873019, 'reg_lambda': 0.5742668676548246, 'scale_pos_weight': 2.5708132721379133, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 6 pruned
+
+Current Ram Used: 82.7 %
+Trial 3 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 9.276525007953838, 'alpha': 3.1358595364282476, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6191079999873019, 'reg_lambda': 0.5742668676548246, 'scale_pos_weight': 2.5708132721379133, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 7 pruned
+
+Current Ram Used: 82.5 %
+Trial 3 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 9.276525007953838, 'alpha': 3.1358595364282476, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6191079999873019, 'reg_lambda': 0.5742668676548246, 'scale_pos_weight': 2.5708132721379133, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 8 pruned
+
+Current Ram Used: 82.6 %
+Trial 3 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 9.276525007953838, 'alpha': 3.1358595364282476, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6191079999873019, 'reg_lambda': 0.5742668676548246, 'scale_pos_weight': 2.5708132721379133, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.6 %Trial 9 finished with parameters: {'tree_method': 'hist', 'lambda': 2.2463853028098324, 'alpha': 3.97991228565322, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 3, 'reg_alpha': 0.5186660324481045, 'reg_lambda': 0.31876266955951527, 'scale_pos_weight': 2.5122113466081437, 'colsample_bytree': 0.8, 'subsample': 0.7, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.6 %
+Trial 3 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 9.276525007953838, 'alpha': 3.1358595364282476, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6191079999873019, 'reg_lambda': 0.5742668676548246, 'scale_pos_weight': 2.5708132721379133, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.8 %Trial 0 finished with parameters: {'tree_method': 'hist', 'lambda': 3.748467326582894, 'alpha': 2.4189842854738526, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 7, 'reg_alpha': 0.8832837177483503, 'reg_lambda': 0.5471799619718655, 'scale_pos_weight': 6.96142370305491, 'colsample_bytree': 0.8, 'subsample': 0.7, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.8 %
+Trial 0 done with best value: 0.7644875277414327 and parameters: {'tree_method': 'hist', 'lambda': 3.748467326582894, 'alpha': 2.4189842854738526, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 7, 'reg_alpha': 0.8832837177483503, 'reg_lambda': 0.5471799619718655, 'scale_pos_weight': 6.96142370305491, 'colsample_bytree': 0.8, 'subsample': 0.7, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.8 %Trial 1 finished with parameters: {'tree_method': 'hist', 'lambda': 6.517541879492779, 'alpha': 1.2454398228053545, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 4, 'reg_alpha': 0.355439868458559, 'reg_lambda': 0.03315776468024445, 'scale_pos_weight': 4.031468805059228, 'colsample_bytree': 0.6, 'subsample': 1.0, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.8 %
+Trial 1 done with best value: 0.7756199934970883 and parameters: {'tree_method': 'hist', 'lambda': 6.517541879492779, 'alpha': 1.2454398228053545, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 4, 'reg_alpha': 0.355439868458559, 'reg_lambda': 0.03315776468024445, 'scale_pos_weight': 4.031468805059228, 'colsample_bytree': 0.6, 'subsample': 1.0, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.7 %Trial 2 finished with parameters: {'tree_method': 'hist', 'lambda': 5.181141725605363, 'alpha': 3.850439543491648, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 0.5878484541466806, 'reg_lambda': 0.5152311839672359, 'scale_pos_weight': 4.4062296468387725, 'colsample_bytree': 1.0, 'subsample': 0.9, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.7 %
+Trial 1 done with best value: 0.7756199934970883 and parameters: {'tree_method': 'hist', 'lambda': 6.517541879492779, 'alpha': 1.2454398228053545, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 4, 'reg_alpha': 0.355439868458559, 'reg_lambda': 0.03315776468024445, 'scale_pos_weight': 4.031468805059228, 'colsample_bytree': 0.6, 'subsample': 1.0, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.6 %Trial 3 finished with parameters: {'tree_method': 'hist', 'lambda': 1.907504623680677, 'alpha': 9.623905090581514, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6898280822466861, 'reg_lambda': 0.8715080636383765, 'scale_pos_weight': 1.0703854410414717, 'colsample_bytree': 0.8, 'subsample': 0.7, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.4 %
+Trial 1 done with best value: 0.7756199934970883 and parameters: {'tree_method': 'hist', 'lambda': 6.517541879492779, 'alpha': 1.2454398228053545, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 4, 'reg_alpha': 0.355439868458559, 'reg_lambda': 0.03315776468024445, 'scale_pos_weight': 4.031468805059228, 'colsample_bytree': 0.6, 'subsample': 1.0, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.6 %Trial 4 finished with parameters: {'tree_method': 'hist', 'lambda': 4.639374447722987, 'alpha': 3.918205293709517, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.5033128173222757, 'reg_lambda': 0.9528258879791643, 'scale_pos_weight': 8.747120368913365, 'colsample_bytree': 0.9, 'subsample': 1.0, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.6 %
+Trial 1 done with best value: 0.7756199934970883 and parameters: {'tree_method': 'hist', 'lambda': 6.517541879492779, 'alpha': 1.2454398228053545, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 4, 'reg_alpha': 0.355439868458559, 'reg_lambda': 0.03315776468024445, 'scale_pos_weight': 4.031468805059228, 'colsample_bytree': 0.6, 'subsample': 1.0, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 5 pruned
+
+Current Ram Used: 83.2 %
+Trial 1 done with best value: 0.7756199934970883 and parameters: {'tree_method': 'hist', 'lambda': 6.517541879492779, 'alpha': 1.2454398228053545, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 4, 'reg_alpha': 0.355439868458559, 'reg_lambda': 0.03315776468024445, 'scale_pos_weight': 4.031468805059228, 'colsample_bytree': 0.6, 'subsample': 1.0, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.2 %Trial 6 finished with parameters: {'tree_method': 'hist', 'lambda': 9.148472860535398, 'alpha': 2.4241049504834664, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.06008525001610532, 'reg_lambda': 0.08976593804015054, 'scale_pos_weight': 2.936011798722652, 'colsample_bytree': 0.7, 'subsample': 1.0, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.2 %
+Trial 6 done with best value: 0.7863441335999124 and parameters: {'tree_method': 'hist', 'lambda': 9.148472860535398, 'alpha': 2.4241049504834664, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.06008525001610532, 'reg_lambda': 0.08976593804015054, 'scale_pos_weight': 2.936011798722652, 'colsample_bytree': 0.7, 'subsample': 1.0, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.2 %Trial 7 finished with parameters: {'tree_method': 'hist', 'lambda': 5.722184373034576, 'alpha': 8.316244879137777, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 4, 'reg_alpha': 0.650082383721164, 'reg_lambda': 0.6783801628241168, 'scale_pos_weight': 2.0937784323668422, 'colsample_bytree': 1.0, 'subsample': 0.7, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.2 %
+Trial 6 done with best value: 0.7863441335999124 and parameters: {'tree_method': 'hist', 'lambda': 9.148472860535398, 'alpha': 2.4241049504834664, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.06008525001610532, 'reg_lambda': 0.08976593804015054, 'scale_pos_weight': 2.936011798722652, 'colsample_bytree': 0.7, 'subsample': 1.0, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 8 pruned
+
+Current Ram Used: 83.3 %
+Trial 6 done with best value: 0.7863441335999124 and parameters: {'tree_method': 'hist', 'lambda': 9.148472860535398, 'alpha': 2.4241049504834664, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.06008525001610532, 'reg_lambda': 0.08976593804015054, 'scale_pos_weight': 2.936011798722652, 'colsample_bytree': 0.7, 'subsample': 1.0, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 9 pruned
+
+Current Ram Used: 83.4 %
+Trial 6 done with best value: 0.7863441335999124 and parameters: {'tree_method': 'hist', 'lambda': 9.148472860535398, 'alpha': 2.4241049504834664, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 10, 'reg_alpha': 0.06008525001610532, 'reg_lambda': 0.08976593804015054, 'scale_pos_weight': 2.936011798722652, 'colsample_bytree': 0.7, 'subsample': 1.0, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.6 %Trial 0 finished with parameters: {'tree_method': 'hist', 'lambda': 3.863706530737859, 'alpha': 8.572618377130244, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.172149596317004, 'reg_lambda': 0.018979478014752638, 'scale_pos_weight': 5.683470011738256, 'colsample_bytree': 0.6, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.6 %
+Trial 0 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 3.863706530737859, 'alpha': 8.572618377130244, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.172149596317004, 'reg_lambda': 0.018979478014752638, 'scale_pos_weight': 5.683470011738256, 'colsample_bytree': 0.6, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.6 %Trial 1 finished with parameters: {'tree_method': 'hist', 'lambda': 3.3152786118606095, 'alpha': 8.216670379003356, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 0.6209918375363271, 'reg_lambda': 0.7431524403079262, 'scale_pos_weight': 6.983214857458476, 'colsample_bytree': 1.0, 'subsample': 1.0, 'learning_rate': 0.01, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.6 %
+Trial 0 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 3.863706530737859, 'alpha': 8.572618377130244, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.172149596317004, 'reg_lambda': 0.018979478014752638, 'scale_pos_weight': 5.683470011738256, 'colsample_bytree': 0.6, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.6 %Trial 2 finished with parameters: {'tree_method': 'hist', 'lambda': 1.8992343870769244, 'alpha': 3.354514546213763, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.8527420916083944, 'reg_lambda': 0.7008440627449154, 'scale_pos_weight': 8.906481669251, 'colsample_bytree': 0.7, 'subsample': 1.0, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.7 %
+Trial 0 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 3.863706530737859, 'alpha': 8.572618377130244, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.172149596317004, 'reg_lambda': 0.018979478014752638, 'scale_pos_weight': 5.683470011738256, 'colsample_bytree': 0.6, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.6 %Trial 3 finished with parameters: {'tree_method': 'hist', 'lambda': 2.783904156261139, 'alpha': 0.16268039718379834, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 8, 'reg_alpha': 0.477110723334773, 'reg_lambda': 0.867899132956816, 'scale_pos_weight': 7.655335294752039, 'colsample_bytree': 0.8, 'subsample': 1.0, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.6 %
+Trial 0 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 3.863706530737859, 'alpha': 8.572618377130244, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.172149596317004, 'reg_lambda': 0.018979478014752638, 'scale_pos_weight': 5.683470011738256, 'colsample_bytree': 0.6, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.6 %Trial 4 finished with parameters: {'tree_method': 'hist', 'lambda': 2.818467882885491, 'alpha': 1.81436591353714, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 3, 'reg_alpha': 0.7299272719090413, 'reg_lambda': 0.45034785475829875, 'scale_pos_weight': 5.041492899345426, 'colsample_bytree': 0.8, 'subsample': 1.0, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.6 %
+Trial 0 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 3.863706530737859, 'alpha': 8.572618377130244, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.172149596317004, 'reg_lambda': 0.018979478014752638, 'scale_pos_weight': 5.683470011738256, 'colsample_bytree': 0.6, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 5 pruned
+
+Current Ram Used: 82.9 %
+Trial 0 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 3.863706530737859, 'alpha': 8.572618377130244, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.172149596317004, 'reg_lambda': 0.018979478014752638, 'scale_pos_weight': 5.683470011738256, 'colsample_bytree': 0.6, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 6 pruned
+
+Current Ram Used: 83.4 %
+Trial 0 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 3.863706530737859, 'alpha': 8.572618377130244, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.172149596317004, 'reg_lambda': 0.018979478014752638, 'scale_pos_weight': 5.683470011738256, 'colsample_bytree': 0.6, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 7 pruned
+
+Current Ram Used: 83.6 %
+Trial 0 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 3.863706530737859, 'alpha': 8.572618377130244, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.172149596317004, 'reg_lambda': 0.018979478014752638, 'scale_pos_weight': 5.683470011738256, 'colsample_bytree': 0.6, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 83.6 %Trial 8 finished with parameters: {'tree_method': 'hist', 'lambda': 3.129595855313516, 'alpha': 1.4508698749517333, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 7, 'reg_alpha': 0.4817562805796438, 'reg_lambda': 0.43330906435213623, 'scale_pos_weight': 2.55577360277971, 'colsample_bytree': 0.7, 'subsample': 0.9, 'learning_rate': 0.1, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 83.9 %
+Trial 0 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 3.863706530737859, 'alpha': 8.572618377130244, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.172149596317004, 'reg_lambda': 0.018979478014752638, 'scale_pos_weight': 5.683470011738256, 'colsample_bytree': 0.6, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 9 pruned
+
+Current Ram Used: 83.0 %
+Trial 0 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 3.863706530737859, 'alpha': 8.572618377130244, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.172149596317004, 'reg_lambda': 0.018979478014752638, 'scale_pos_weight': 5.683470011738256, 'colsample_bytree': 0.6, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 85.9 %Trial 0 finished with parameters: {'tree_method': 'hist', 'lambda': 7.982186459180409, 'alpha': 3.778113738464356, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 3, 'reg_alpha': 1.77456814583263, 'reg_lambda': 1.189872798606792, 'scale_pos_weight': 2.1387975450837, 'colsample_bytree': 0.8, 'subsample': 0.7, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 85.9 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 7.982186459180409, 'alpha': 3.778113738464356, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 3, 'reg_alpha': 1.77456814583263, 'reg_lambda': 1.189872798606792, 'scale_pos_weight': 2.1387975450837, 'colsample_bytree': 0.8, 'subsample': 0.7, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 85.9 %Trial 1 finished with parameters: {'tree_method': 'hist', 'lambda': 4.394086570883533, 'alpha': 5.1184458807398014, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 8, 'reg_alpha': 0.3499816625964487, 'reg_lambda': 2.37632041346274, 'scale_pos_weight': 1.0691863922587328, 'colsample_bytree': 0.6, 'subsample': 0.6, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 85.9 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 7.982186459180409, 'alpha': 3.778113738464356, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 3, 'reg_alpha': 1.77456814583263, 'reg_lambda': 1.189872798606792, 'scale_pos_weight': 2.1387975450837, 'colsample_bytree': 0.8, 'subsample': 0.7, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 85.9 %Trial 2 finished with parameters: {'tree_method': 'hist', 'lambda': 6.54774703038468, 'alpha': 6.645602671519364, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 9, 'reg_alpha': 0.20805057656201797, 'reg_lambda': 1.2209938554352557, 'scale_pos_weight': 3.0418182390668704, 'colsample_bytree': 0.8, 'subsample': 0.7, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 85.9 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 7.982186459180409, 'alpha': 3.778113738464356, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 3, 'reg_alpha': 1.77456814583263, 'reg_lambda': 1.189872798606792, 'scale_pos_weight': 2.1387975450837, 'colsample_bytree': 0.8, 'subsample': 0.7, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 85.9 %Trial 3 finished with parameters: {'tree_method': 'hist', 'lambda': 2.7573826657431124, 'alpha': 2.6661292978610027, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 6, 'reg_alpha': 0.8508609106738614, 'reg_lambda': 2.1904015849831073, 'scale_pos_weight': 1.3939806309314093, 'colsample_bytree': 1.0, 'subsample': 1.0, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 85.9 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 7.982186459180409, 'alpha': 3.778113738464356, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 3, 'reg_alpha': 1.77456814583263, 'reg_lambda': 1.189872798606792, 'scale_pos_weight': 2.1387975450837, 'colsample_bytree': 0.8, 'subsample': 0.7, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 85.9 %Trial 4 finished with parameters: {'tree_method': 'hist', 'lambda': 3.173445913743395, 'alpha': 6.949534634511948, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 20, 'reg_alpha': 0.5727822038220687, 'reg_lambda': 2.533381470823925, 'scale_pos_weight': 3.681623767886289, 'colsample_bytree': 0.9, 'subsample': 0.7, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 85.9 %
+Trial 0 done with best value: 0.7634131014884658 and parameters: {'tree_method': 'hist', 'lambda': 7.982186459180409, 'alpha': 3.778113738464356, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 3, 'reg_alpha': 1.77456814583263, 'reg_lambda': 1.189872798606792, 'scale_pos_weight': 2.1387975450837, 'colsample_bytree': 0.8, 'subsample': 0.7, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 85.9 %Trial 5 finished with parameters: {'tree_method': 'hist', 'lambda': 0.3214642406355515, 'alpha': 6.926741299307519, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6476774606187208, 'reg_lambda': 2.8006656990787318, 'scale_pos_weight': 3.251690038189946, 'colsample_bytree': 0.7, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 85.9 %
+Trial 5 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 0.3214642406355515, 'alpha': 6.926741299307519, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6476774606187208, 'reg_lambda': 2.8006656990787318, 'scale_pos_weight': 3.251690038189946, 'colsample_bytree': 0.7, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 6 pruned
+
+Current Ram Used: 85.7 %
+Trial 5 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 0.3214642406355515, 'alpha': 6.926741299307519, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6476774606187208, 'reg_lambda': 2.8006656990787318, 'scale_pos_weight': 3.251690038189946, 'colsample_bytree': 0.7, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 7 pruned
+
+Current Ram Used: 85.7 %
+Trial 5 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 0.3214642406355515, 'alpha': 6.926741299307519, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6476774606187208, 'reg_lambda': 2.8006656990787318, 'scale_pos_weight': 3.251690038189946, 'colsample_bytree': 0.7, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 8 pruned
+
+Current Ram Used: 85.6 %
+Trial 5 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 0.3214642406355515, 'alpha': 6.926741299307519, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6476774606187208, 'reg_lambda': 2.8006656990787318, 'scale_pos_weight': 3.251690038189946, 'colsample_bytree': 0.7, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 9 pruned
+
+Current Ram Used: 85.6 %
+Trial 5 done with best value: 0.811122500012245 and parameters: {'tree_method': 'hist', 'lambda': 0.3214642406355515, 'alpha': 6.926741299307519, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 5, 'reg_alpha': 0.6476774606187208, 'reg_lambda': 2.8006656990787318, 'scale_pos_weight': 3.251690038189946, 'colsample_bytree': 0.7, 'subsample': 0.8, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.3 %Trial 0 finished with parameters: {'tree_method': 'hist', 'lambda': 2.317186013695073, 'alpha': 3.1406330946003838, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 8, 'reg_alpha': 0.782532836005345, 'reg_lambda': 0.5556198441253644, 'scale_pos_weight': 1.384000660500135, 'colsample_bytree': 0.9, 'subsample': 0.7, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.3 %
+Trial 0 done with best value: 0.7525093018976035 and parameters: {'tree_method': 'hist', 'lambda': 2.317186013695073, 'alpha': 3.1406330946003838, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 8, 'reg_alpha': 0.782532836005345, 'reg_lambda': 0.5556198441253644, 'scale_pos_weight': 1.384000660500135, 'colsample_bytree': 0.9, 'subsample': 0.7, 'learning_rate': 0.03, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.3 %Trial 1 finished with parameters: {'tree_method': 'hist', 'lambda': 3.1079077095245835, 'alpha': 3.5539390751483415, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 1.7904976846227023, 'reg_lambda': 1.773293245471533, 'scale_pos_weight': 3.68162547850772, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.3 %
+Trial 1 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 3.1079077095245835, 'alpha': 3.5539390751483415, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 1.7904976846227023, 'reg_lambda': 1.773293245471533, 'scale_pos_weight': 3.68162547850772, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.3 %Trial 2 finished with parameters: {'tree_method': 'hist', 'lambda': 0.5240413099436831, 'alpha': 3.605977865697386, 'gamma': 5, 'objective': 'binary:logistic', 'min_child_weight': 15, 'reg_alpha': 1.3291909424937534, 'reg_lambda': 1.5720429835855478, 'scale_pos_weight': 3.2851046842422202, 'colsample_bytree': 0.8, 'subsample': 0.7, 'learning_rate': 0.05, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.3 %
+Trial 1 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 3.1079077095245835, 'alpha': 3.5539390751483415, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 1.7904976846227023, 'reg_lambda': 1.773293245471533, 'scale_pos_weight': 3.68162547850772, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.3 %Trial 3 finished with parameters: {'tree_method': 'hist', 'lambda': 4.579352836156917, 'alpha': 1.5544726861683802, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 17, 'reg_alpha': 0.5831466487466548, 'reg_lambda': 2.8937676054108143, 'scale_pos_weight': 1.9119317206602897, 'colsample_bytree': 1.0, 'subsample': 0.7, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 11, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.3 %
+Trial 1 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 3.1079077095245835, 'alpha': 3.5539390751483415, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 1.7904976846227023, 'reg_lambda': 1.773293245471533, 'scale_pos_weight': 3.68162547850772, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+
+Current Ram Used: 82.3 %Trial 4 finished with parameters: {'tree_method': 'hist', 'lambda': 2.408510154170183, 'alpha': 3.6802274590839317, 'gamma': 0, 'objective': 'binary:logistic', 'min_child_weight': 7, 'reg_alpha': 1.3409292995001247, 'reg_lambda': 0.5127196038874359, 'scale_pos_weight': 3.896560490001866, 'colsample_bytree': 0.6, 'subsample': 0.6, 'learning_rate': 0.008, 'n_estimators': 100, 'max_depth': 9, 'random_state': 48, 'early_stopping_rounds': 10.0}
+
+Current Ram Used: 82.3 %
+Trial 1 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 3.1079077095245835, 'alpha': 3.5539390751483415, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 1.7904976846227023, 'reg_lambda': 1.773293245471533, 'scale_pos_weight': 3.68162547850772, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 5 pruned
+
+Current Ram Used: 81.8 %
+Trial 1 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 3.1079077095245835, 'alpha': 3.5539390751483415, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 1.7904976846227023, 'reg_lambda': 1.773293245471533, 'scale_pos_weight': 3.68162547850772, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 6 pruned
+
+Current Ram Used: 81.8 %
+Trial 1 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 3.1079077095245835, 'alpha': 3.5539390751483415, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 1.7904976846227023, 'reg_lambda': 1.773293245471533, 'scale_pos_weight': 3.68162547850772, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 7 pruned
+
+Current Ram Used: 82.3 %
+Trial 1 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 3.1079077095245835, 'alpha': 3.5539390751483415, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 1.7904976846227023, 'reg_lambda': 1.773293245471533, 'scale_pos_weight': 3.68162547850772, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 8 pruned
+
+Current Ram Used: 82.1 %
+Trial 1 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 3.1079077095245835, 'alpha': 3.5539390751483415, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 1.7904976846227023, 'reg_lambda': 1.773293245471533, 'scale_pos_weight': 3.68162547850772, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
+Trial 9 pruned
+
+Current Ram Used: 82.8 %
+Trial 1 done with best value: 0.7985008012339067 and parameters: {'tree_method': 'hist', 'lambda': 3.1079077095245835, 'alpha': 3.5539390751483415, 'gamma': 1, 'objective': 'binary:logistic', 'min_child_weight': 1, 'reg_alpha': 1.7904976846227023, 'reg_lambda': 1.773293245471533, 'scale_pos_weight': 3.68162547850772, 'colsample_bytree': 0.7, 'subsample': 0.6, 'learning_rate': 0.07, 'n_estimators': 100, 'max_depth': 13, 'random_state': 48, 'early_stopping_rounds': 10.0}.
