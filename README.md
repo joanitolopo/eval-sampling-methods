@@ -1,6 +1,59 @@
 # eval-sampling-methods
 ![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/joanitolopo/eval-sampling-methods/blob/main/LICENSE)
 
+This repository contains code for evaluating sampling method, especially for imbalanced dataset problem. You can cite the research paper in below section. 
+
+## Getting Started
+
+### Clone the Repository
+
+To get started with this project, you'll need to clone this repository to your local machine. Open a terminal and run the following command:
+
+```bash
+git clone https://github.com/joanitolopo/eval-sampling-methods.git
+```
+
+### Setting up the Environment
+- Change directory cd to eval folder
+```bash
+cd /eval-sampling-methods
+```
+- Run this command to install the environment. Make sure you have conda or miniconda package
+```bash
+conda env create -f requirements.yml
+```
+
+## Usage
+
+To use the provided script and run the application, follow these steps:
+
+1. Open a terminal or command prompt.
+
+2. Navigate to the project directory where the script is located:
+
+   ```bash
+   cd /path/to/your/project/directory
+   ```
+### Command-Line Arguments
+
+You can customize the behavior of the application using the following command-line arguments:
+
+| Argument           | Description                                                | Value |
+|--------------------|------------------------------------------------------------|---------------|
+| `--file`           | Specify the path to your CSV file containing data.         | path           |
+| `--sampling`       | Choose the sampling method. (default: "ros")              | ["ros", "rus", "smt", "iht"]         |
+| `--ratio`          | Set the sampling ratio. (default: 0.5)                    | 0.5           |
+| `--plot`           | Enable this flag to generate plots. (optional)            | optional       |
+| `--custom_param_path` | Provide the path to a JSON file with custom hyperparameter values to be tuned. (optional) | json file |
+
+#### Example Usage
+
+To run the application with custom parameters and generate plots, you can use the following command:
+
+```bash
+python main.py --file example_data.csv --sampling smote --ratio 0.6 --plot --custom_param_path example_custom_params.json
+```
+
 ## Research Paper
 If you find this code or research useful in your work, we kindly request that you cite the following paper: http://journal.uad.ac.id/index.php/JITEKI/article/view/25929/pdf_182.
 
